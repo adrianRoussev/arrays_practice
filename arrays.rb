@@ -10,3 +10,7 @@ grades_out_of_1.shift(1)
 #this will remove and output the first value in the array called grades_out_of_1
 correct_answer_q1.unshift(true)
 #this will add the boolean in brackets to the beginning of the array
+#index positions are the position of an element in an array
+#example
+puts pet_names[0]
+#the expected output would be the first sting "popcorn" as this is the index position 0
